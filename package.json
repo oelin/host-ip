@@ -1,0 +1,30 @@
+{
+  "name": "host-ip",
+  "version": "1.0.0",
+  "description": "Gather metadata about a machine's public IP address using ifconfig.io.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oelin/host-ip.git"
+  },
+  "keywords": [
+    "ip",
+    "ipv4",
+    "geoip",
+    "ifconfig.io",
+    "host-ip"
+  ],
+  "author": "oelin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oelin/host-ip/issues"
+  },
+  "homepage": "https://github.com/oelin/host-ip#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  }
+}
