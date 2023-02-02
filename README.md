@@ -1,4 +1,4 @@
-# MIPA
+# Mipa
 
 Machine IP Address. Gather metadata about a machine's public IP address using ifconfig.io.
 
