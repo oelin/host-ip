@@ -1,21 +1,21 @@
-# host-ip
+# MIPA
 
-Gather metadata about a machine's public IP address using ifconfig.io.
+Machine IP Address. Gather metadata about a machine's public IP address using ifconfig.io.
 
 
 ## Installation
 
 ```sh
-npm i host-ip
+npm i mipa
 ```
 
 
 ## Usage
 
 ```js
-import hostIP from 'host-ip'
+import mipa from 'mipa'
 
-await hostIP()
+await mipa()
 ```
 
 An object containing the following fields will be returned:
