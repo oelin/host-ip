@@ -1,5 +1,5 @@
 {
-  "name": "host-ip",
+  "name": "mipa",
   "version": "1.0.0",
   "description": "Gather metadata about a machine's public IP address using ifconfig.io.",
   "type": "module",
@@ -9,21 +9,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/oelin/host-ip.git"
+    "url": "git+https://github.com/oelin/mipa.git"
   },
   "keywords": [
     "ip",
     "ipv4",
+    "ipv6",
     "geoip",
-    "ifconfig.io",
-    "host-ip"
+    "ifconfig",
   ],
   "author": "oelin",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/oelin/host-ip/issues"
+    "url": "https://github.com/oelin/mipa/issues"
   },
-  "homepage": "https://github.com/oelin/host-ip#readme",
+  "homepage": "https://github.com/oelin/mipa#readme",
   "dependencies": {
     "node-fetch": "^3.3.0"
   }
