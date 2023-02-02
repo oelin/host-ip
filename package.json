@@ -16,7 +16,7 @@
     "ipv4",
     "ipv6",
     "geoip",
-    "ifconfig",
+    "ifconfig"
   ],
   "author": "oelin",
   "license": "MIT",
