@@ -24,6 +24,6 @@ An object containing the following fields will be returned:
 {
   ip: ..., // The machine's public IP address.
   port: ..., // The ephemeral port which was used to connect to ifconfig.io.
-  country_code: ..., // Course location of the IP address.
+  country_code: ..., // Approximate location of the IP address.
 }
 ```
