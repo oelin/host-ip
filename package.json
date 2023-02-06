@@ -1,6 +1,6 @@
 {
   "name": "mipa",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Gather metadata about a machine's public IP address using ifconfig.io.",
   "type": "module",
   "main": "index.js",
